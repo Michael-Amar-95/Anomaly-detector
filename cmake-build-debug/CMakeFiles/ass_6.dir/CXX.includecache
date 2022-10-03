@@ -1,0 +1,206 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/AnomalyDetector.h
+string
+-
+vector
+-
+timeseries.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/timeseries.h
+math.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/math.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/CLI.cpp
+CLI.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/CLI.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/CLI.h
+stdlib.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/stdlib.h
+vector
+-
+string.h
+-
+commands.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/commands.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/HybridAnomalyDetector.h
+SimpleAnomalyDetector.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/SimpleAnomalyDetector.h
+minCircle.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/minCircle.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/MainTrain.cpp
+iostream
+-
+fstream
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+pthread.h
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+time.h
+-
+Server.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/Server.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/Server.cpp
+Server.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/Server.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/Server.h
+CLI.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/CLI.h
+pthread.h
+-
+sys/socket.h
+-
+thread
+-
+functional
+-
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/SimpleAnomalyDetector.h
+anomaly_detection_util.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/anomaly_detection_util.h
+AnomalyDetector.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/AnomalyDetector.h
+minCircle.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/minCircle.h
+vector
+-
+algorithm
+-
+string.h
+-
+math.h
+-
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/anomaly_detection_util.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/commands.h
+string.h
+-
+sstream
+-
+vector
+-
+string
+-
+utility
+-
+stdexcept
+-
+math.h
+-
+sys/types.h
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+cstring
+-
+map
+-
+fstream
+-
+fstream
+-
+iostream
+-
+string.h
+-
+sstream
+-
+vector
+-
+string
+-
+utility
+-
+stdexcept
+-
+math.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+pthread.h
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+time.h
+-
+HybridAnomalyDetector.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/HybridAnomalyDetector.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/minCircle.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+time.h
+-
+anomaly_detection_util.h
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/anomaly_detection_util.h
+
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/timeseries.h
+vector
+-
+string
+-
+map
+-
+iostream
+-
+fstream
+-
+sstream
+-
+math.h
+-
+

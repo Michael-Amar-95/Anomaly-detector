@@ -1,0 +1,3 @@
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Michael/Desktop/bioinformatics/third year/semester 1/AdvanceProgramming/ass 6/cmake-build-debug/CMakeFiles/ass_6.dir
